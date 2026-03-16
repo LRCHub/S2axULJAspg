@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "やさしい希望",
+  "base_artist": "早見沙織",
+  "createdAt": "2026-03-16T13:19:35.758025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしい希望",
+      "artist": "早見沙織",
+      "has_synced": true,
+      "path": "select/01_やさしい希望_早見沙織.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やさしい希望 (TV EDIT)",
+      "artist": "Saori Hayami",
+      "has_synced": true,
+      "path": "select/02_やさしい希望_(TV_EDIT)_Saori_Hayami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やさしい希望 (TV EDIT)",
+      "artist": "Hayami, Saori",
+      "has_synced": true,
+      "path": "select/03_やさしい希望_(TV_EDIT)_Hayami,_Saori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やさしい希望",
+      "artist": "Saori Hayami",
+      "has_synced": true,
+      "path": "select/04_やさしい希望_Saori_Hayami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やさしい希望 (TV EDIT)",
+      "artist": "早見沙織",
+      "has_synced": false,
+      "path": "select/05_やさしい希望_(TV_EDIT)_早見沙織.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "やさしい希望 [instrumental]",
+      "artist": "早見沙織",
+      "has_synced": true,
+      "path": "select/06_やさしい希望_[instrumental]_早見沙織.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしい希望",
+      "artist": "早見沙織",
+      "has_synced": false,
+      "path": "select/pl_01_やさしい希望_早見沙織.txt"
+    }
+  ]
+}
